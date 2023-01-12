@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wyvern.Test", "Wyvern.Test\Wyvern.Test.csproj", "{596D7C10-1363-44C0-93F7-ECE86C71903F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wyvern", "Wyvern\Wyvern.csproj", "{9FF22C42-6E59-4E41-983D-DC864E25869F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{596D7C10-1363-44C0-93F7-ECE86C71903F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596D7C10-1363-44C0-93F7-ECE86C71903F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596D7C10-1363-44C0-93F7-ECE86C71903F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596D7C10-1363-44C0-93F7-ECE86C71903F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FF22C42-6E59-4E41-983D-DC864E25869F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF22C42-6E59-4E41-983D-DC864E25869F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF22C42-6E59-4E41-983D-DC864E25869F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF22C42-6E59-4E41-983D-DC864E25869F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
